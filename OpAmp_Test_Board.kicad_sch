@@ -5473,7 +5473,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Plastronics_Test_Sockets:Plastronics_32QN65S17070_DRAFT"
+		(property "Footprint" "Plastronics_Sockets:Plastronics_32LQ65S17070"
 			(at 86.36 38.1 0)
 			(hide yes)
 			(show_name no)
@@ -6681,7 +6681,7 @@
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
-		(in_bom no)
+		(in_bom yes)
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
@@ -7700,7 +7700,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "MountingHole:MountingHole_3mm"
+		(property "Footprint" "MountingHole:MountingHole_3.2mm_M3"
 			(at 20.32 69.85 0)
 			(hide yes)
 			(show_name no)
@@ -7748,7 +7748,7 @@
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
-		(in_bom no)
+		(in_bom yes)
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
@@ -8762,7 +8762,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "MountingHole:MountingHole_3mm"
+		(property "Footprint" "MountingHole:MountingHole_3.2mm_M3"
 			(at 20.32 95.25 0)
 			(hide yes)
 			(show_name no)
@@ -9077,7 +9077,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "MountingHole:MountingHole_3mm"
+		(property "Footprint" "MountingHole:MountingHole_3.2mm_M3"
 			(at 20.32 80.01 0)
 			(hide yes)
 			(show_name no)
@@ -9233,7 +9233,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "MountingHole:MountingHole_3mm"
+		(property "Footprint" "MountingHole:MountingHole_3.2mm_M3"
 			(at 20.32 88.9 0)
 			(hide yes)
 			(show_name no)

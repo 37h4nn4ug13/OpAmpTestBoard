@@ -2,4 +2,5 @@
 	(version 7)
 	(lib (name "OpAmp_Socket_DRAFT") (type "KiCad") (uri "C:/Users/nnaugle1/Downloads/Plastronics_32QN65S17070_KiCad_MECHANICAL_ONLY/OpAmp_Socket_DRAFT.pretty") (options "") (descr ""))
 	(lib (name "Plastronics_Test_Sockets") (type "KiCad") (uri "C:/Users/nnaugle1/OneDrive - University of Tennessee/Documents/Plastronics_Test_Sockets.pretty") (options "") (descr ""))
+	(lib (name "Plastronics_Sockets") (type "KiCad") (uri "C:/Users/nnaugle1/OneDrive - University of Tennessee/Documents/Plastronics_32LQ65S17070_KiCad/Plastronics_Sockets.pretty") (options "") (descr ""))
 )
